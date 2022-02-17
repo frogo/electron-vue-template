@@ -1,0 +1,79 @@
+/* 深圳协同深蓝皮肤样式 */
+ /* 左侧菜单收起后popper子菜单样式 */
+.popper-menu{
+  .el-menu{
+    background: #0f3564;
+    li.el-menu-item{
+      &:focus, &:hover, &.is-active {
+        background: #1a417a ;
+        color: #fff ;
+       /* border-left: 5px solid #4771d4;*/
+      }
+      a{color:#fff;text-decoration: none;display: inline-block;width:100%}
+    }
+  }
+}
+.deepBlue{
+  .el-container.home{
+    .el-container.main{
+      .el-aside{
+        background: #0f3564 url("~@/assets/skins/deepBlue/aside_bg.png") no-repeat bottom;
+        .el-menu{
+          .svg-icon.sidebar{color:#fff}
+          background: transparent;
+          border-right: none;
+          &.el-menu--collapse{
+            .el-menu-item.noChild{
+              border-left:none;
+              &:focus,&:hover,&.is-active{
+                border-left: none;
+              }
+            }
+          }
+          .el-menu-item{
+            height:45px;line-height: 45px;
+            margin: 5px 0;
+            &.noChild{
+              border-left: 5px solid #213f71;
+              background: #213f71;
+              &:focus,&:hover,&.is-active{
+                color:#fff;
+                background: #1a417a;
+                border-left: 5px solid #4771d4;
+                .svg-icon.sidebar{color:#fff}
+              }
+            }
+            i,span{color:#cbcdf2}
+            a{color:#cbcdf2}
+          }
+          .el-submenu{
+            margin: 0 0 5px 0;
+            .el-menu-item{
+              margin-bottom: 0;
+              &:focus,&:hover,&.is-active{
+                color:#cbcdf2;
+                background: #1a417a;
+                border-left: 5px solid #4771d4;
+              }
+              border: none;
+            }
+            .el-submenu__title{
+              height:45px;line-height: 45px;
+              background: #213f71;
+              i,span{color:#cbcdf2}
+            }
+          }
+
+        }
+      }
+      .sidebar-toggle{
+        background: #0f3564;
+        color:#fff;
+      }
+    }
+  }
+  header.el-header{
+    h1.title{background: url("~@/assets/skins/deepBlue/logo.png") no-repeat left center}
+    background: #0f3564 url("~@/assets/skins/deepBlue/top_bg.png") no-repeat right;
+  }
+}

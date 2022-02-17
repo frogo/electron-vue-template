@@ -1,0 +1,47 @@
+
+/*
+@media screen and (max-width: 1024px) {
+
+}
+*/
+
+
+@media screen and (max-width: 1280px) {
+#app .search-box .btn-box{
+  float: none;margin-top: 20px;
+}
+}
+
+/*
+@media screen and (max-width: 1366px) {
+
+}
+*/
+/*
+@media screen and (max-width: 1440px) {
+
+}
+*/
+
+/*
+@media screen and (max-width: 1600px) {
+
+}
+*/
+
+@media screen and (max-width: 1440px) {
+  .search-flex {
+    .search-box-datetime {
+      width: 35%;
+    }
+    .filterableSelect {
+      width: 18%;
+    }
+    .filterableInput {
+      width: 20% !important;
+    }
+    .btn-box {
+      margin-top: 10px !important;
+    }
+  }
+}

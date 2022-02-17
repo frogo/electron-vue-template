@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg179" inkscape:version="0.92.4 (33fec40, 2019-01-16)" sodipodi:docname="jiaoc.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FF8080;}
+	.st2{display:inline;}
+	.st3{font-family:'Helvetica';}
+	.st4{font-size:18.6667px;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="517.16082" inkscape:cy="133.53519" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="713" inkscape:window-maximized="1" inkscape:window-width="1327" inkscape:window-x="39" inkscape:window-y="27" inkscape:zoom="0.49497475" pagecolor="#ffffff" showgrid="false" units="px">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-161.53332)" inkscape:groupmode="layer" inkscape:label="Layer 1" class="st0">
+	<rect id="rect209" x="237.1" y="160.9" class="st1" width="32" height="32"/>
+	<g id="g191" transform="matrix(0.2849359,0,0,0.2849359,-5.2102564,156.32306)" class="st2">
+		<path id="path183" inkscape:connector-curvature="0" d="M1258.8,856.3H977.2V574.7c0-33.3-27.2-60.5-60.5-60.5
+			c-33.3,0-60.5,27.2-60.5,60.5v281.6H574.7c-33.3,0-60.5,22.7-60.5,60.5c0,37.8,28.3,60.5,60.5,60.5s281.6,0,281.6,0
+			s0,245.7,0,281.6s26.5,60.5,60.5,60.5s60.5-27.2,60.5-60.5V977.2h281.6c33.3,0,60.5-27.2,60.5-60.5S1292,856.3,1258.8,856.3z"/>
+		<g id="g189">
+			<g id="g187">
+				<path id="path185" inkscape:connector-curvature="0" d="M916.7,236.4c181.8,0,352.6,70.7,481.1,199.2S1597,734.9,1597,916.7
+					s-70.7,352.6-199.2,481.1S1098.5,1597,916.7,1597s-352.6-70.7-481.1-199.2s-199.2-299.3-199.2-481.1s70.7-352.6,199.2-481.1
+					S734.9,236.4,916.7,236.4 M916.7,130.6c-434.3,0-786.1,351.9-786.1,786.1s351.9,786.1,786.1,786.1s786.1-351.9,786.1-786.1
+					S1351,130.6,916.7,130.6z"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 276.2871 185.5314)" class="st2 st3 st4">32px</text>
+	<rect id="rect209-3" x="240.6" y="641.5" class="st1" width="32" height="32"/>
+	<rect id="rect209-3-5" x="0" y="405" class="st1" width="32" height="32"/>
+	<rect id="rect209-3-5-6" x="482" y="403" class="st1" width="32" height="32"/>
+</g>
+<g id="组件">
+	<g id="图标_x2F_门户_x2F_选中">
+		<path id="形状" d="M208.8,374.9L208.8,374.9v-70.7h-70.7c-39.1,0-70.7,31.7-70.7,70.7c0,39.1,31.7,70.7,70.7,70.7
+			C177.2,445.6,208.8,414,208.8,374.9L208.8,374.9L208.8,374.9L208.8,374.9z M244.2,374.9c0,58.6-47.5,106.1-106.1,106.1
+			C79.5,481,32,433.5,32,374.9s47.5-106.1,106.1-106.1h70.7h35.4v35.4V374.9L244.2,374.9L244.2,374.9z M303.2,374.9v-70.7h70.7
+			c39.1,0,70.7,31.7,70.7,70.7c0,39.1-31.7,70.7-70.7,70.7C334.8,445.6,303.2,414,303.2,374.9L303.2,374.9L303.2,374.9z
+			 M267.8,374.9c0,58.6,47.5,106.1,106.1,106.1c58.6,0,106.1-47.5,106.1-106.1s-47.5-106.1-106.1-106.1h-70.7h-35.4v35.4V374.9
+			L267.8,374.9L267.8,374.9z M208.8,139.1v70.7h-70.7c-39.1,0-70.7-31.7-70.7-70.7c0-39.1,31.7-70.7,70.7-70.7
+			C177.2,68.4,208.8,100,208.8,139.1L208.8,139.1L208.8,139.1z M244.2,139.1C244.2,80.5,196.7,33,138.1,33C79.5,33,32,80.5,32,139.1
+			c0,58.6,47.5,106.1,106.1,106.1h70.7h35.4v-35.4V139.1L244.2,139.1L244.2,139.1z M303.2,139.1v70.7h70.7
+			c39.1,0,70.7-31.7,70.7-70.7c0-39.1-31.7-70.7-70.7-70.7C334.8,68.4,303.2,100,303.2,139.1L303.2,139.1L303.2,139.1z M267.8,139.1
+			L267.8,139.1C267.8,80.5,315.3,33,373.9,33C432.5,33,480,80.5,480,139.1c0,58.6-47.5,106.1-106.1,106.1h-70.7h-35.4v-35.4V139.1
+			L267.8,139.1L267.8,139.1z"/>
+	</g>
+</g>
+</svg>
