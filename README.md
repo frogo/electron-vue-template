@@ -1,4 +1,5 @@
-
+集成webpack4 + vue2
+打包使用electron-builder
 ## Usage
 ```bash
 # install resource manager(Option)
