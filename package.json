@@ -10,14 +10,6 @@
 		"electron-dev": "node electron/config/electron-dev.js",
 		"electron-package": "npm run build && node electron/config/electron-build.js && electron-builder --dir"
 	},
-	"homepage": "https://git.iflytek.com/PLBG_view/admit_guilty_web",
-	"repository": {
-		"type": "git",
-		"url": "https://git.iflytek.com/PLBG_view/admit_guilty_web.git"
-	},
-	"bugs": {
-		"url": "https://git.iflytek.com/PLBG_view/admit_guilty_web/issues"
-	},
 	"keywords": [
 		"vue",
 		"webpack",
@@ -49,10 +41,6 @@
 		"@babel/preset-env": "^7.3.4",
 		"@commitlint/cli": "^7.5.2",
 		"@commitlint/config-conventional": "^7.5.0",
-		"@electron-forge/maker-deb": "^6.0.0-beta.63",
-		"@electron-forge/maker-rpm": "^6.0.0-beta.63",
-		"@electron-forge/maker-squirrel": "^6.0.0-beta.63",
-		"@electron-forge/maker-zip": "^6.0.0-beta.63",
 		"axios": "^0.18.0",
 		"babel-eslint": "^10.0.1",
 		"babel-loader": "^8.0.5",
